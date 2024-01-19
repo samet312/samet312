@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif" align="center" style="width: 100%" />
+<img src="devOps-cloud-native-2.gif" align="center" style="width: 100%" />
 </div>  
   
 
